@@ -8,7 +8,7 @@ public class Ağaçödev {
         
         ağaçyapısı tree = new ağaçyapısı();
 
-        dugum ağaç = new dugum();
+        dugum ağaç = new dugum(38);
         
         tree.ekle(ağaç,38);
         tree.ekle(ağaç,12);
